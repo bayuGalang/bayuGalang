@@ -18,13 +18,13 @@
 
 <h1>Here is some of my Project App</h1>
   <a href="https://github.com/bayuGalang/costume-rent" target="blank"><img align="center" src="https://raw.githubusercontent.com/bayuGalang/assets-images/main/costume-rent/Screenshot%202023-09-22%20at%2011.07.59%20AM.png?token=GHSAT0AAAAAACH4XNPB2HL5MQBFEX4HQ3VGZINEHXA" alt="galang bayu w" style="width:100px;height:200px;" />
-   Aplikasi Costume - Rent Dibangun dengan menggunakan
+   Aplikasi Costume - Rent Dibangun dengan menggunakan Flutter
   </a>
   <br/>
   <br/>
    <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-8.jpg?raw=true" alt="galang bayu w" style="width:100px;height:200px;" /></a>
    <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-10.jpg?raw=true"style="width:100px;height:200px;" /></a>
-    <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-9.jpg?raw=true"style="width:100px;height:200px;" />Aplikasi Costume - Rent Dibangun dengan menggunakan</a>
+    <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-9.jpg?raw=true"style="width:100px;height:200px;" />Aplikasi SysAi - Dibangun dengan menggunakan Flutter </a>
  
   
 
