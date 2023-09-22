@@ -1,6 +1,6 @@
 <img src="https://github.com/bayuGalang/assets-images/blob/main/8539037.ai.png?raw=true" alt="Image Alt Text" width="1080">
 <h1 align="center">Hi 👋, I'm Galang</h1>
-<h3 align="center">An Informatics Engineering From Indonesia, With Specialize in Mobile Develoment</h3>
+<h3 align="center">An Informatics Engineering From Indonesia, Specialized in Mobile Development</h3>
 
 - 🔭 I’m currently Searching For Job **As a Mobile Development**
 
@@ -14,13 +14,26 @@
 
 - 📫 How to reach me **bayyoulss@gmail.com**
  
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GAs5bP4GSu9IOYhruvpb9U65mjsolxTs/view?usp=share_link](https://drive.google.com/file/d/1GAs5bP4GSu9IOYhruvpb9U65mjsolxTs/view?usp=share_link)
+
+<h1>Here is some of my Project App</h1>
+  <a href="https://github.com/bayuGalang/costume-rent" target="blank"><img align="center" src="https://raw.githubusercontent.com/bayuGalang/assets-images/main/costume-rent/Screenshot%202023-09-22%20at%2011.07.59%20AM.png?token=GHSAT0AAAAAACH4XNPB2HL5MQBFEX4HQ3VGZINEHXA" alt="galang bayu w" style="width:100px;height:200px;" />
+   Aplikasi Costume - Rent Dibangun dengan menggunakan
+  </a>
+  <br/>
+  <br/>
+   <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-8.jpg?raw=true" alt="galang bayu w" style="width:100px;height:200px;" /></a>
+   <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-10.jpg?raw=true"style="width:100px;height:200px;" /></a>
+    <a href="https://github.com/bayuGalang/sysAi" target="blank"><img align="center" src="https://github.com/bayuGalang/assets-images/blob/main/sysai/image-9.jpg?raw=true"style="width:100px;height:200px;" />Aplikasi Costume - Rent Dibangun dengan menggunakan</a>
+ 
+  
+
+ <hr attribute="value">                    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/galang bayu w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galang bayu w" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17425745/galangbayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17425745/galangbayu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17425745/galangbayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17425745/galangbayu" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/glngbyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/glngbyu" height="30" width="40" /></a>
 </p>
 
