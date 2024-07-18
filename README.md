@@ -22,8 +22,3 @@
 <a href="https://stackoverflow.com/users/17425745/galangbayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17425745/galangbayu" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/glngbyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/glngbyu" height="30" width="40" /></a>
 </p>
-
-<div>
-  <p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayuGalang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayuGalang&layout=compact&langs_count=8&theme=algolia"/></p>
-</div>
