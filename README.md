@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Galang</h1>
-<h3 align="center">Developer From Indonesia, Like To Do FullStack🤓🤓</h3>
-
-
-- 🔭 I’m currently working as a **Senior officer**
-
-- 🌱 Now im working on my Startup and working as a **Founder and Fullstack Developer**
+<h3 align="center">Fck MBG</h3>
 
 - 🎧 Like Music but Dont Have skill On It
 
-- 🍤 Coding For Fun - Wish me Luck at My startup
-
 - 📫 How to reach me **bayyoulss@gmail.com**
  
-- 📄 Need some Funding to Expand my Startup
+- 📄 Need some Bla Bla Bla Bla Kickksss
 
  <hr attribute="value">                    
 
